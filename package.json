@@ -1,0 +1,28 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarBurelo/FriendFinder.git"
+  },
+  "keywords": [
+    "Friend",
+    "Finder"
+  ],
+  "author": "Edgar Burelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarBurelo/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/EdgarBurelo/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
