@@ -10,5 +10,5 @@ To install the application follow the instructions below:
 
 git clone
 cd FriendFinder
-npm install
+<br>npm install
 node server.js
