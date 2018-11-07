@@ -9,6 +9,6 @@ Installation
 To install the application follow the instructions below:
 
 git clone
-cd FriendFinder
+<br>cd FriendFinder
 <br>npm install
-node server.js
+<br>node server.js
