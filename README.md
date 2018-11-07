@@ -8,7 +8,7 @@ Friend Finder application is meant to simulate a simple dating app. The applicat
 Installation
 To install the application follow the instructions below:
 
-git clone 
-cd friend-finder
+git clone
+cd FriendFinder
 npm install
 node server.js
