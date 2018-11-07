@@ -15,6 +15,7 @@ const apiroutes = require("./app/routing/apiRoutes.js");
 htmlroutes(app);
 apiroutes(app);
 
+require("./app/routing/htmlRoutes.js")(app);
 
 
 app.listen(PORT, function () {
